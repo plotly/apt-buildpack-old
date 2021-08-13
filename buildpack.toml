@@ -1,10 +1,10 @@
 api = "0.4"
 
 [buildpack]
-id = "dajulia3/apt"
+id = "eagle/apt-deps"
 version = "0.1.0"
 name = "apt Packages Buildpack"
-homepage = "https://github.com/fagiani/apt-buildpack"
+homepage = "https://github.com/dajulia3/apt-buildpack"
 description = "Installs apt packages for further builds and runtime with support for bionic stack. Forked from fagiani/apt."
 keywords = ["apt", "packages", "ubuntu"]
 
