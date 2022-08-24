@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 
 # fail fast
-#set -eo pipefail
-
-set -eu
+set -eo pipefail
 
 # debug
 #set -x
