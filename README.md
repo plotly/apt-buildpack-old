@@ -1,4 +1,6 @@
+**Note**: This is the old buildpack. The new one (shipped with DE5.3.0 onwards) is available at: https://github.com/plotly/apt-buildpack
 # apt Buildpack
+
 
 [![Version](https://img.shields.io/badge/dynamic/json?url=https://cnb-registry-api.herokuapp.com/api/v1/buildpacks/fagiani/apt&label=Version&query=$.latest.version)](https://github.com/fagiani/apt-buildpack)
 
